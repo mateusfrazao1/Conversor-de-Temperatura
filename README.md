@@ -1,0 +1,1 @@
+Atividade Realizada com Base nas Aulas de Java do Curso da Udemy, aprimorando a ideia da atividade foi criado um metodo "conversordificil" contendo a classe "conversordificil" a ideia então seria nao ter os valores fixos , dando a liberdade para o usuario informar o valor para ser convertido 
